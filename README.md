@@ -22,7 +22,7 @@ This capstone project represents the culmination of my learning journey at Kodla
         - Exploratory Data Analysis (EDA)
         - Problem-solving and storytelling with data.
 ---
-2. ***Dataset Overview***
+2. **Dataset Overview**
     - Provide a comprehensive introduction to the dataset, including:
         - **Data Source:** Describe the dataset’s origin and structure.
         - **Key Tables:** Outline the key tables used and their relationships.
